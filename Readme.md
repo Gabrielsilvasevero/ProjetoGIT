@@ -1,3 +1,4 @@
-Primeiro projeto usando o git
+# Primeiro Projeto Usando o Git
 
-Isso é uma alteração
+#### É sempre bom aprender coisas novas e estar conectado com o mundo
+
